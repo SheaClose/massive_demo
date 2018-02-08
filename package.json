@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "massive": "^4.6.4"
+  }
+}
